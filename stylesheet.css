@@ -1,0 +1,33 @@
+body {
+  font-family: "Garamond";
+}
+
+li {
+  list-style: none;
+  font-size:19px;
+  float: left;
+  padding: 40px 50px;
+  color: #bba187;
+}
+
+.header {
+  background-color: #fae4cc;
+  height: 90px;
+  font-size: 50px;
+}
+.header-logo{
+  font-size: 36px;
+  float: left;
+  padding: 20px 40px;
+  color: #bba187;
+}
+
+.main {
+  background-image: url(https://i.pinimg.com/236x/bc/61/80/bc6180b96dde677ca6249068327ca96f.jpg);
+  height: 600px;
+}
+
+.footer {
+  background-color: #ebd4b4;
+  height: 270px;
+}
