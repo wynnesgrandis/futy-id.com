@@ -9,6 +9,24 @@ body {
   padding: 40px 50px;
   color: #bba187;
 }
+.product-icon {
+  width: 100%;
+  text-align: center;
+  color: #bba187;
+}
+.product-icon img {
+  width: auto;
+}
+.contact-submit {
+  background-color:#dee7ec;
+  color:#889eab;
+  appearance: push-button;
+user-select: none;
+white-space: pre;
+align-items: flex-start;
+text-align: center;
+cursor: pointer;
+}
 
 .header {
   background-color: #fae4cc;
