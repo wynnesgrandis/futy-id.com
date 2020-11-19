@@ -85,7 +85,8 @@ background-color: #ebc1a7;
     background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v855-techi-nunoon-37a.jpg?bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&q=65&usm=15&vib=3&w=800&s=c6d8db1d4a45d3da1c8ea12cd9c1adeb);
 height: 1000px
 color :white;
-text-align: center;
+text-align: center
+}
 
 .heading{
   color: white;
