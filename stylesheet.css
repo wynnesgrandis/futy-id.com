@@ -96,7 +96,10 @@ text-align: center
 .product-list hr{
   color: #bba187;
 }
-
+.product-list h1 {
+  color :white;
+  text-align: center
+}
 .footer {
   background-color: #ebd4b4;
   height: 270px;
