@@ -1,6 +1,7 @@
 body {
   font-family: "Garamond";
 }
+
 @media (max-width: 1000px) {
 }
 
@@ -80,14 +81,11 @@ background-color: #ebc1a7;
   color: white;
   style: bold;
 }
-.boxed{
+.main{
     background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v855-techi-nunoon-37a.jpg?bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&q=65&usm=15&vib=3&w=800&s=c6d8db1d4a45d3da1c8ea12cd9c1adeb);
-    margin-right: 60px;
-      width: 1484px;
-      display: inline-block;
-      padding: 30px 10px;
-      line-height: normal;
-}
+height: 1000px
+color :white;
+text-align: center;
 
 .heading{
   color: white;
