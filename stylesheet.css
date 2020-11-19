@@ -1,6 +1,11 @@
 body {
   font-family: "Garamond";
 }
+@media (max-width: 1000px) {
+}
+
+@media (max-width: 670px) {
+}
 
 .header-list a {
   list-style: none;
